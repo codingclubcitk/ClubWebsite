@@ -13,7 +13,7 @@ export default function Footer() {
           <Link to={temp}>LN</Link>
           <Link to={temp}>LN</Link>
         </div>
-        <div className="flex flex-col justify-center items-center bg-slate-600 h-24">
+        <div className="flex flex-col justify-center items-center bg-slate-600 h-24 text-xs md:text-sm">
           <p>Copyright @ 2022 | Designed & Developed by Coding Club CITK </p>
           <p>
             Central Institute of Technology Kokrajhar Website: www.cit.ac.in
